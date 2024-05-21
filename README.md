@@ -3,3 +3,4 @@
 
 ## Solutions:
 [Challenge #1:](https://pythonprinciples.com/challenges/Capital-indexes) Capital Indexes - [My Solution](./Capital%20Indexes/capital_indexes.py)
+[Challenge #2:](https://pythonprinciples.com/challenges/Middle-letter) Middle Letter - [My Solution](./Middle%20Letter/middle_letter.py)
