@@ -8,4 +8,6 @@
 
 [Challenge #3:](https://pythonprinciples.com/challenges/Online-status/) Online Status - [My Solution](./Online%20Status/online_status.py)  
 
-[Challenge #4:](https://pythonprinciples.com/challenges/Randomness/) Randomness - [My Solution](./Randomness/randomness.py)
+[Challenge #4:](https://pythonprinciples.com/challenges/Randomness/) Randomness - [My Solution](./Randomness/randomness.py)  
+
+[Challenge #5:](https://pythonprinciples.com/challenges/Type-check/) Type Check - [My Solution](./Type%20Check/type_check.py)
