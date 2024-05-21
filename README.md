@@ -6,4 +6,6 @@
   
 [Challenge #2:](https://pythonprinciples.com/challenges/Middle-letter) Middle Letter - [My Solution](./Middle%20Letter/middle_letter.py)  
 
-[Challenge #3:](https://pythonprinciples.com/challenges/Online-status/) Online Status - [My Solution](./Online%20Status/online_status.py)
+[Challenge #3:](https://pythonprinciples.com/challenges/Online-status/) Online Status - [My Solution](./Online%20Status/online_status.py)  
+
+[Challenge #4:](https://pythonprinciples.com/challenges/Randomness/) Randomness - [My Solution](./Randomness%20randomness.py)
