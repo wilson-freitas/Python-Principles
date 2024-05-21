@@ -10,4 +10,6 @@
 
 [Challenge #4:](https://pythonprinciples.com/challenges/Randomness/) Randomness - [My Solution](./Randomness/randomness.py)  
 
-[Challenge #5:](https://pythonprinciples.com/challenges/Type-check/) Type Check - [My Solution](./Type%20Check/type_check.py)
+[Challenge #5:](https://pythonprinciples.com/challenges/Type-check/) Type Check - [My Solution](./Type%20Check/type_check.py)  
+
+[Challenge #6:](https://pythonprinciples.com/challenges/Double-letters/) Double Letters - [My Solution](./Double%20Letters/double_letters.py)
