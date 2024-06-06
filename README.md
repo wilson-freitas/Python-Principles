@@ -14,4 +14,6 @@
 
 [Challenge #6:](https://pythonprinciples.com/challenges/Double-letters/) Double Letters - [My solution](./Double%20Letters/double_letters.py)  
 
-[Challenge #7:](https://pythonprinciples.com/challenges/Adding-and-removing-dots/) Adding and Removing Dots - [My solution](./Adding%20and%20Removing%20Dots/adding_removing_dots.py)
+[Challenge #7:](https://pythonprinciples.com/challenges/Adding-and-removing-dots/) Adding and Removing Dots - [My solution](./Adding%20and%20Removing%20Dots/adding_removing_dots.py)  
+
+[Challenge #8:](https://pythonprinciples.com/challenges/Counting-syllables/) Counting syllabes - [My solution]()
