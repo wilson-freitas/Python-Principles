@@ -18,5 +18,7 @@
 
 [Challenge #8:](https://pythonprinciples.com/challenges/Counting-syllables/) Counting syllabes - [My solution](./Counting%20Syllabes/counting_syllabes.py)  
 
-[Challenge #9:](https://pythonprinciples.com/challenges/Anagrams/) Anagrams - [My solution](./Anagrams/anagrams.py)
+[Challenge #9:](https://pythonprinciples.com/challenges/Anagrams/) Anagrams - [My solution](./Anagrams/anagrams.py)  
+
+[Challenge #10:](https://pythonprinciples.com/challenges/Flatten-a-list/) Flatten a list - [My solution](./Flatten%20a%20list/flatten_a_list.py)
 
