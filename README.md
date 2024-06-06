@@ -1,5 +1,5 @@
 # Python Principles Challenges
-[Python Principles](https://pythonprinciples.com/) is an online learning platform designed to help you learn programming in Python. This repository contains my solutions to the challenges presented on the site.
+[Python Principles](https://pythonprinciples.com/) is an online learning platform designed to help you learn programming in Python. This repository contains my solutions to the challenges presented on the site with the direct link to it.
 
 ## Solutions
 [Challenge #1:](https://pythonprinciples.com/challenges/Capital-indexes) Capital Indexes - [My solution](./Capital%20Indexes/capital_indexes.py)  
