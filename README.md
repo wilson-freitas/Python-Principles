@@ -16,4 +16,4 @@
 
 [Challenge #7:](https://pythonprinciples.com/challenges/Adding-and-removing-dots/) Adding and Removing Dots - [My solution](./Adding%20and%20Removing%20Dots/adding_removing_dots.py)  
 
-[Challenge #8:](https://pythonprinciples.com/challenges/Counting-syllables/) Counting syllabes - [My solution]()
+[Challenge #8:](https://pythonprinciples.com/challenges/Counting-syllables/) Counting syllabes - [My solution](./Counting%20Syllabes/counting_syllabes.py)
