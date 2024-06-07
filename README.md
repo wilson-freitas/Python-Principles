@@ -20,5 +20,7 @@
 
 [Challenge #9:](https://pythonprinciples.com/challenges/Anagrams/) Anagrams - [My solution](./Anagrams/anagrams.py)  
 
-[Challenge #10:](https://pythonprinciples.com/challenges/Flatten-a-list/) Flatten a list - [My solution](./Flatten%20a%20list/flatten_a_list.py)
+[Challenge #10:](https://pythonprinciples.com/challenges/Flatten-a-list/) Flatten a list - [My solution](./Flatten%20a%20list/flatten_a_list.py)  
+
+[Challenge #11:](https://pythonprinciples.com/challenges/Minmaxing/) Min-maxing - [My solution]()
 
