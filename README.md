@@ -8,7 +8,7 @@
 
 [Challenge #3:](https://pythonprinciples.com/challenges/Online-status/) Online Status - [My solution](Codes/online_status.py)  
 
-[Challenge #4:](https://pythonprinciples.com/challenges/Randomness/) Randomness - [My solution](./Randomness/randomness.py)  
+[Challenge #4:](https://pythonprinciples.com/challenges/Randomness/) Randomness - [My solution](Codes/randomness.py)  
 
 [Challenge #5:](https://pythonprinciples.com/challenges/Type-check/) Type Check - [My solution](Codes/type_check.py)  
 
