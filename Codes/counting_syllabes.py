@@ -3,8 +3,4 @@
 
 # we could create a loop that counts the hyphens, but the 'count' method is so easy to use
 def count(word):
-    num_syllabes = word.count("-") + 1
-    return num_syllabes
-
-word = input()
-count(word)
+    return word.count("-") + 1
