@@ -26,5 +26,11 @@
 
 [Challenge #12:](https://pythonprinciples.com/challenges/Divisible-by-3/) Divisible by 3 - [My solution](Codes/divisible_by_3.py)  
 
-[Challenge #13:](https://pythonprinciples.com/challenges/Tic-tac-toe-input/) Tic Tac Toe input - [My solution](Codes/tic_tac_toe_input.py)
+[Challenge #13:](https://pythonprinciples.com/challenges/Tic-tac-toe-input/) Tic Tac Toe input - [My solution](Codes/tic_tac_toe_input.py)  
+
+[Challenge #14:](https://pythonprinciples.com/challenges/Palindrome/) Palindrome - [My solution](Codes/palindrome.py)  
+
+[Challenge #15:](https://pythonprinciples.com/challenges/Up-and-down/) Up and Down - [My solution](Codes/up_and_down.py)
+
+[Challenge #16:](https://pythonprinciples.com/challenges/Consecutive-zeros/) Consecutive Zeros - [My solution](Codes/consecutive_zeros.py)
 
