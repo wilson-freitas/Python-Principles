@@ -24,5 +24,7 @@
 
 [Challenge #11:](https://pythonprinciples.com/challenges/Minmaxing/) Min-maxing - [My solution](Codes/min_maxing.py)  
 
-[Challenge #12:](https://pythonprinciples.com/challenges/Divisible-by-3/) Divisible by 3 - [My solution](Codes/divisible_by_3.py)
+[Challenge #12:](https://pythonprinciples.com/challenges/Divisible-by-3/) Divisible by 3 - [My solution](Codes/divisible_by_3.py)  
+
+[Challenge #13:](https://pythonprinciples.com/challenges/Tic-tac-toe-input/) Tic Tac Toe input - [My solution](Codes/tic_tac_toe_input.py)
 
