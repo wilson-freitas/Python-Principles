@@ -32,5 +32,7 @@
 
 [Challenge #15:](https://pythonprinciples.com/challenges/Up-and-down/) Up and Down - [My solution](Codes/up_and_down.py)
 
-[Challenge #16:](https://pythonprinciples.com/challenges/Consecutive-zeros/) Consecutive Zeros - [My solution](Codes/consecutive_zeros.py)
+[Challenge #16:](https://pythonprinciples.com/challenges/Consecutive-zeros/) Consecutive Zeros - [My solution](Codes/consecutive_zeros.py)  
+
+[Challenge #17:](https://pythonprinciples.com/challenges/All-equal/) All Equal - [My solution](Codes/all_equal.py)
 
