@@ -34,5 +34,17 @@
 
 [Challenge #16:](https://pythonprinciples.com/challenges/Consecutive-zeros/) Consecutive Zeros - [My solution](Codes/consecutive_zeros.py)  
 
-[Challenge #17:](https://pythonprinciples.com/challenges/All-equal/) All Equal - [My solution](Codes/all_equal.py)
+[Challenge #17:](https://pythonprinciples.com/challenges/All-equal/) All Equal - [My solution](Codes/all_equal.py)  
+
+[Challenge #18:](https://pythonprinciples.com/challenges/Boolean-and/) Boolean And - [My solution](Codes/boolean_and.py)  
+
+[Challenge #19:](https://pythonprinciples.com/challenges/Writing-short-code/) Writing Short Code - [My solution](Codes/writing_short_code.py)  
+
+[Challenge #20:](https://pythonprinciples.com/challenges/Custom-zip/) Custom zip - [My solution](Codes/custom_zip.py)  
+
+
+
+
+
+
 
