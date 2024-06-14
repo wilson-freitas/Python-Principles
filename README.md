@@ -42,6 +42,8 @@
 
 [Challenge #20:](https://pythonprinciples.com/challenges/Custom-zip/) Custom zip - [My solution](Codes/custom_zip.py)  
 
+[Challenge #21:](https://pythonprinciples.com/challenges/Solution-validation/) Solution validation - [My solution](Codes/solution_validation.py)
+
 
 
 
