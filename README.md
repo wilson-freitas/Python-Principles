@@ -46,8 +46,9 @@
 
 [Challenge #22:](https://pythonprinciples.com/challenges/List-xor/) List xor - [My solution](Codes/list_xor.py)  
 
-[Challenge #23:](https://pythonprinciples.com/challenges/Counting-parameters/) Counting parameters - [My solution](Codes/counting_parameters.py)
+[Challenge #23:](https://pythonprinciples.com/challenges/Counting-parameters/) Counting parameters - [My solution](Codes/counting_parameters.py)  
 
+[Challenge #24:](https://pythonprinciples.com/challenges/Thousands-separator/) Thousands separator - [My solution](Codes/thousands_separator.py)
 
 
 
