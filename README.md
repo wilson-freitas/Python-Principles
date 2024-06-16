@@ -46,7 +46,7 @@
 
 [Challenge #22:](https://pythonprinciples.com/challenges/List-xor/) List xor - [My solution](Codes/list_xor.py)  
 
-[Challenge #23](https://pythonprinciples.com/challenges/Counting-parameters/) Counting parameters - [My solution](Codes/couting_parameters.py)
+[Challenge #23](https://pythonprinciples.com/challenges/Counting-parameters/) Counting parameters - [My solution](Codes/counting_parameters.py)
 
 
 
